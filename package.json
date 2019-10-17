@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "async": "^3.1.0",
-    "redis": "^2.8.0",
+    "redis": "NodeRedis/node_redis#a60261da0461d4bb114b1533fada87e97fa985c8",
     "sharedb": "^1.0.0-beta"
   },
   "devDependencies": {
